@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/src/org/icstars/calendar
+END
+Event.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/src/org/icstars/calendar/Event.java
+END
+ConcurrentEventException.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/org/icstars/calendar/ConcurrentEventException.java
+END
+Schedule.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/org/icstars/calendar/Schedule.java
+END
