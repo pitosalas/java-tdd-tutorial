@@ -8,10 +8,13 @@ public class EventTest extends TestCase {
 	Calendar earlier, now, later, latest;
 	
 	protected void setUp() throws Exception {
+		// initialize each variable with a Calendar set to right now.
 		earlier = Calendar.getInstance();
 		now = Calendar.getInstance();
 		later = Calendar.getInstance();
 		latest = Calendar.getInstance();
+		
+		// Adjust each one so we can have representative values
 		later.add(Calendar.HOUR_OF_DAY, 1);
 		latest.add(Calendar.HOUR_OF_DAY, 2);
 		earlier.add(Calendar.HOUR_OF_DAY, -1);

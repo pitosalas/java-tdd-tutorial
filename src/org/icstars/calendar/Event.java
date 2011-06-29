@@ -2,6 +2,11 @@ package org.icstars.calendar;
 
 import java.util.Calendar;
 
+/** Describe a single Event on the calendar
+ * 
+ * @author pitosalas
+ *
+ */
 public class Event {
 
 	private String description;

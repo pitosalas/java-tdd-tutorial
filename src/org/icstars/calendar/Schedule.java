@@ -2,6 +2,11 @@ package org.icstars.calendar;
 
 import java.util.ArrayList;
 
+/**
+ * Schedule contains and operates on a series of events
+ * @author pitosalas
+ *
+ */
 public class Schedule {
 	ArrayList<Event> events = new ArrayList<Event>();
 	
